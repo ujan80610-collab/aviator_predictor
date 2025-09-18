@@ -1,4 +1,4 @@
-> 🎃🛩️ **Aviator Predictor** – *The Haunted Flight Edition*
+pip install tensorflow pandas numpy requests> 🎃🛩️ **Aviator Predictor** – *The Haunted Flight Edition*
 
 *Predict the next multiplier… if you dare.*
 🕸️ Built by **CyberJay** 👻
@@ -80,3 +80,4 @@ But give the 🧛 creator (**CyberJay**) credit, or face the wrath of broken cod
 * Report bugs before they report *you*: [Issues](https://github.com/TA-wiah/aviator-predictor/issues)
 
 *"The plane has taken off. But will it crash… or fly high into the moonlight?"*
+
